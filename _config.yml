@@ -16,7 +16,7 @@
 title: Hikayat Melayu
 description: An open Malay manuscript research.
 baseurl: "/samudera" # the subpath of your site, e.g. /blog
-url: "https://syafiqhadzir.dev/samudera" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://syafiqhadzir.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
